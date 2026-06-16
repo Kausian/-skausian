@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:270036,50:7A0BC0,100:C147E9&text=HELLO%20WORLD&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=WELCOME%20TO%20S.KAUSIAN'S%20PROFILE&descAlignY=58&descSize=18&animation=fadeIn" />
+<img src="./assets/banner.png" alt="S.Kausian GitHub Profile Banner" width="100%" />
 
 </div>
 
