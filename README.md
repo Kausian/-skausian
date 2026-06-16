@@ -33,7 +33,7 @@ I enjoy building real-world projects, learning how applications are deployed, an
 
 <td width="42%" align="center">
 
-<img width="330" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjV5eW1xc2s5M29lMjQzdmM0MGcxbG52YWFqNHFpZ3Z1b2NmdTB5diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" alt="GitHub GIF" />
+<img width="330" src="./assets/github-black.gif" alt="GitHub GIF" />
 
 </td>
 </tr>
