@@ -126,6 +126,10 @@ I enjoy building real-world projects, learning how applications are deployed, an
 
 <img src="https://streak-stats.demolab.com?user=Kausian&theme=tokyonight&hide_border=true" />
 
+<div align="center">
+
+### ⚡ Keep learning. Keep building. Keep improving.
+
 <br/>
 
 <div align="center">
