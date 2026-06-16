@@ -6,9 +6,10 @@
 
 #👋I'M S.KAUSIAN!
 
----
+
 
 ### *Computer Science Undergraduate 🎓*
+
 
 <table>
 <tr>
@@ -39,7 +40,37 @@ I enjoy building real-world projects, learning how applications are deployed, an
 </tr>
 </table>
 
----
+[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_data_capsul.svg)](https://github.com/hiradEmami)
+
+<div align="center">
+
+## 📬 Contact Me
+
+<div align="center">
+
+<a href="mailto:skausian@gmail.com">
+  <img src="https://img.shields.io/badge/Mail-skausian%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-S.Kausian-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="YOUR_INSTAGRAM_URL">
+  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://discord.com/users/YOUR_DISCORD_USER_ID">
+  <img src="https://img.shields.io/badge/Discord-Connect-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+
+<a href="YOUR_PORTFOLIO_URL">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+</div>
+
+[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_data_capsul.svg)](https://github.com/hiradEmami)
 
 <div align="center">
 
@@ -90,7 +121,9 @@ I enjoy building real-world projects, learning how applications are deployed, an
 </tr>
 </table>
 
----
+
+[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_data_capsul.svg)](https://github.com/hiradEmami)
+
 
 <div align="center">
 
@@ -115,35 +148,6 @@ I enjoy building real-world projects, learning how applications are deployed, an
 
 </div>
 
----
-
-<div align="center">
-
-## 📬 Contact Me
-
-<a href="mailto:skausian@gmail.com">
-  <img src="https://img.shields.io/badge/Mail-skausian%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-S.Kausian-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="YOUR_INSTAGRAM_URL">
-  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
-<a href="https://discord.com/users/YOUR_DISCORD_USER_ID">
-  <img src="https://img.shields.io/badge/Discord-Connect-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
-
-<a href="YOUR_PORTFOLIO_URL">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-111111?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
-</div>
-
----
 
 <div align="center">
 
