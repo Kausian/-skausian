@@ -126,15 +126,15 @@ I enjoy building real-world projects, learning how applications are deployed, an
 
 <img src="https://streak-stats.demolab.com?user=Kausian&theme=tokyonight&hide_border=true" />
 
-</div>
-
-### ⚡ Keep learning. Keep building. Keep improving.
+<br/>
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/skausian/skausian/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+<img src="https://raw.githubusercontent.com/Kausian/-skausian/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 
 </div>
+
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:C147E9,50:7A0BC0,100:270036&section=footer" />
 
