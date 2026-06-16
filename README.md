@@ -96,20 +96,18 @@ I enjoy building real-world projects, learning how applications are deployed, an
 
 ## 📊 GitHub Analytics
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=skausian&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skausian&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kausian&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kausian&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/>
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=skausian&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Kausian&theme=tokyonight&hide_border=true" />
 
 </div>
-
----
-
-<div align="center">
 
 ## 🕹️ Live Contribution Arena
 
