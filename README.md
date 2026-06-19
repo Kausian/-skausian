@@ -30,8 +30,6 @@ I enjoy building real-world projects, learning how applications are deployed, an
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Kausian&label=PROFILE%20VIEWS&color=8A008A&style=for-the-badge" alt="profile views" />
-
 </div>
 
 <br clear="right"/>
