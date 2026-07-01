@@ -40,7 +40,7 @@ I enjoy building real-world projects, learning how applications are deployed, an
 
 ## 📬 Contact Me
 
-<a href="YOUR_PORTFOLIO_URL">
+<a href="https://kausian.com/">
   <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 &nbsp;&nbsp;
